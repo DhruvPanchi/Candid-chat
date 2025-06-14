@@ -22,7 +22,7 @@ export default function App() {
   };
 
   return (
-    <div className="flex h-screen bg-[#0b1120] text-white relative justify-center">
+    <div className="flex h-screen w-screen bg-[#0b1120] text-white relative justify-start">
       {/* Candid logo */}
       <div className="absolute top-6 right-8 text-white text-xl font-semibold">
         Candid
